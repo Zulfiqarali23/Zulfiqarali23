@@ -1,104 +1,168 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin71000/Sachin71000/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin71000/Sachin71000/main/light.svg">
-  <img width="100%" alt="Sachin Yash Raj — AI/ML Developer" src="https://raw.githubusercontent.com/Sachin71000/Sachin71000/main/light.svg">
-</picture>
-
-<h2 align="center">Building intelligent systems that see, understand, and assist.</h2>
-
-<p align="center">
-  AI/ML developer and Computer Science undergraduate in Bengaluru, turning applied machine learning into useful products—from computer-vision attendance systems to NLP interview coaching.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-0A101F?style=flat-square&logo=openai&logoColor=A78BFA" alt="AI and machine learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-0A101F?style=flat-square&logo=opencv&logoColor=22D3EE" alt="Computer vision" />
-  <img src="https://img.shields.io/badge/NLP%20%2B%20LLMs-0A101F?style=flat-square&logo=googlegemini&logoColor=10B981" alt="NLP and LLMs" />
-  <img src="https://img.shields.io/badge/Full--Stack%20AI-0A101F?style=flat-square&logo=react&logoColor=22D3EE" alt="Full-stack AI" />
-</p>
-
----
-
-### Selected systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 · Resume Intelligence</h3>
-      <p>An AI interview coach that reads résumés, generates role-specific questions, evaluates responses, and returns a practical improvement roadmap.</p>
-      <code>Python</code> · <code>spaCy</code> · <code>TF-IDF</code> · <code>Flask</code> · <code>React</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 · Smart Attendance</h3>
-      <p>A full-stack computer-vision platform with face recognition, risk prediction, trend forecasting, anomaly detection, and automated reports.</p>
-      <code>OpenCV</code> · <code>Scikit-learn</code> · <code>SQLite</code> · <code>Flask</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 · Component Generator</h3>
-      <p>An AI-assisted UI generator that turns plain-language prompts into reusable, previewable components in under a minute.</p>
-      <code>React</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>LLM API</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · Portfolio Runtime</h3>
-      <p>A modern developer portfolio built on the latest React ecosystem and deployed as an edge-ready web experience.</p>
-      <code>Next.js</code> · <code>TypeScript</code> · <code>Cloudflare</code> · <code>Drizzle</code>
-      <br /><br />
-      <a href="https://nextjs-boilerplate-seven-alpha-83.vercel.app/">Explore the live portfolio →</a>
-    </td>
-  </tr>
-</table>
-
-### Technology constellation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenCV-0A101F?style=for-the-badge&logo=opencv&logoColor=22D3EE" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Scikit--learn-0A101F?style=for-the-badge&logo=scikitlearn&logoColor=10B981" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0A101F?style=for-the-badge&logo=nodedotjs&logoColor=10B981" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi&logoColor=10B981" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0A101F?style=for-the-badge&logo=mongodb&logoColor=10B981" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=A78BFA" alt="Linux" />
-</p>
-
-### Now
-
-- 🧠 Building applied AI products with LLMs, NLP, and computer vision
-- 📚 Deepening machine-learning engineering, system design, and deployment skills
-- 🤝 Open to AI/ML internships, ambitious collaborations, and open-source work
-- ⚡ Solved 200+ LeetCode problems while maintaining an 8.08 CGPA in B.E. Computer Science
-
-### Contribution flow
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin71000/Sachin71000/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin71000/Sachin71000/output/github-snake.svg" />
-    <img width="100%" alt="Snake eating Sachin's GitHub contributions" src="https://raw.githubusercontent.com/Sachin71000/Sachin71000/output/github-snake.svg" />
-  </picture>
+
+<img src="./profile.jpg" width="180" alt="Zulfiqar Ali" />
+
+<h1>Zulfiqar Ali</h1>
+
+<h3>Backend Developer · Software Developer</h3>
+
+<p>
+Building practical software, backend systems, ERP platforms, and business-focused applications.
+</p>
+
+<p>
+📍 Mumbai, India · 🎓 Pursuing M.Sc. IT
+</p>
+
+<p>
+<a href="https://github.com/Zulfiqarali23">
+  <img src="https://img.shields.io/badge/GitHub-Zulfiqarali23-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
 </div>
 
 ---
 
-<h3 align="center">Let’s build something useful.</h3>
+### About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/Sachin-Yash-Raj">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:sachinyashraj723@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://nextjs-boilerplate-seven-alpha-83.vercel.app/#contact">
-    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" />
-  </a>
+I'm a software developer focused on building practical and reliable applications that solve real-world business problems.
+
+My work includes backend development, ERP systems, billing platforms, REST APIs, database-driven applications, and administrative systems.
+
+I'm currently pursuing M.Sc. IT and continuously improving my skills in backend development, system design, APIs, databases, and modern software development.
+
+---
+
+### Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>01 · SocietyCity ERP</h3>
+
+<p>
+A society management and ERP platform designed to handle administration, accounting, billing, member management, reports, payments, and other day-to-day society operations.
 </p>
 
-<p align="center"><sub>Bengaluru, India · Learning in public · Shipping with purpose</sub></p>
+<code>PHP</code> · <code>Yii2</code> · <code>MySQL</code> · <code>REST APIs</code>
 
+    </td>
+
+    <td width="50%" valign="top">
+
+<h3>02 · Society Billing Systems</h3>
+
+<p>
+Worked on billing and accounting workflows including bill generation, opening balances, receipts, charges, ledgers, member data, reports, and society-specific billing operations.
+</p>
+
+<code>PHP</code> · <code>MySQL</code> · <code>ERP</code> · <code>APIs</code>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>03 · Visitor Management</h3>
+
+<p>
+A visitor management system for residential societies covering visitor records, member mapping, security workflows, administration, and visitor-related operations.
+</p>
+
+<code>PHP</code> · <code>MySQL</code> · <code>JavaScript</code> · <code>REST APIs</code>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+<h3>04 · Ayurvedkart</h3>
+
+<p>
+An e-commerce platform with a backend administration system, product management, customer-facing functionality, and API-driven application architecture.
+</p>
+
+<code>PHP</code> · <code>Yii2</code> · <code>MySQL</code> · <code>REST APIs</code>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### Technology Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PHP-0A101F?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+
+<img src="https://img.shields.io/badge/Yii2-0A101F?style=for-the-badge&logo=yii&logoColor=43B02A" alt="Yii2" />
+
+<img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+
+<img src="https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+
+<img src="https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
+<img src="https://img.shields.io/badge/REST%20APIs-0A101F?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs" />
+
+<img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+
+<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+
+</p>
+
+---
+
+### What I Work On
+
+- 🔧 Backend development and REST API development
+- 🏢 ERP and business management systems
+- 🧾 Society billing and accounting workflows
+- 👥 Visitor management systems
+- 🗄️ Database-driven applications
+- 🌐 Web application development
+- 🧩 System debugging and issue resolution
+- 🚀 Continuously learning better development practices
+
+---
+
+### Currently
+
+- 🎓 Pursuing M.Sc. IT
+- 💻 Building and maintaining backend applications
+- 🏢 Working with ERP and billing platforms
+- 🧠 Improving backend architecture and system-design skills
+- 📚 Learning and strengthening modern development technologies
+
+---
+
+### Contribution Flow
+
+<div align="center">
+
+<p>
+  <img src="https://raw.githubusercontent.com/Zulfiqarali23/Zulfiqarali23/output/github-snake.svg" alt="Zulfiqar Ali's GitHub contribution snake" width="100%" />
+</p>
+
+</div>
+
+---
+
+<h3 align="center">Let's build something useful.</h3>
+
+<p align="center">
+
+<a href="https://github.com/Zulfiqarali23">
+<img src="https://img.shields.io/badge/GitHub-Zulfiqarali23-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
+
+<p align="center">
+<sub>Mumbai, India · Learning · Building · Improving</sub>
+</p>
